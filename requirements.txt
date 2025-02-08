@@ -1,0 +1,5 @@
+functions-framework==3.*
+PyMuPDF==1.19.6
+pytesseract==0.3.8
+Pillow==9.3.0
+google-cloud-storage==2.5.0
